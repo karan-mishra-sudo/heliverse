@@ -103,7 +103,7 @@ function DeliveryDashboard(props) {
           <img
             className="rounded-full"
             src="https://mui.com/static/logo.png"
-            alt="MUI logo"
+            alt="MUI"
           />
         ),
         title: "DeliveryDashboard",
